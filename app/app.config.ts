@@ -4,7 +4,7 @@ export default defineAppConfig({
     available: true,
   },
   profile: {
-    name: 'Hugo Richard',
+    name: 'Mark. Broomfield',
     job: 'Frontend Architect and Designer',
     email: 'contact@hrcd.fr',
     phone: '(+33) 6 21 56 22 18',
